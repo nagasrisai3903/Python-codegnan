@@ -1,0 +1,16 @@
+a=10
+b=20
+c=a+b
+print("Addition of a and b=",c)
+d=a-b
+print("Sub of a and b=",d)
+e=a*b
+print("Mul of a and b=",e)
+f=a/b
+print("div of a and b=",f)
+g=a%b
+print("modulus of a and b=",g)
+h=a//b
+print("Floor of a and b=",h)
+i=a**b
+print("Expo of a and b=",i)
